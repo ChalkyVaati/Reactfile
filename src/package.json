@@ -1,0 +1,11 @@
+{
+  "name": "first-react-file",
+  "version": "1.0.0",
+  "description": "Learning the basics of React",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  }
+}
